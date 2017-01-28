@@ -1,0 +1,22 @@
+{
+	"option1": [
+		{"limit":2},
+		{"call" : "Witam", "answer" : "Witaj"},
+		{"call" : "jak leci?", "answer" : "ok"}
+	],
+	"option2": [
+		{"limit":2},
+		{"call" : "Witam", "answer" : "Witaj"},
+		{"call" : "jak leci?", "answer" : "ok"}
+	],
+	"option3": [
+		{"limit":2},
+		{"call" : "Witam", "answer" : "Witaj"},
+		{"call" : "jak leci?", "answer" : "ok"}
+	],
+	"option4": [
+		{"limit":2},
+		{"call" : "Witam", "answer" : "Witaj"},
+		{"call" : "jak leci?", "answer" : "ok"}
+	]
+}
